@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1607622416 source:c:\users\thiam\desktop\nova pasta\c++\trabalho miguel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"lib.h"
+	<math.h>
+	<string.h>
+
+1605898694 c:\users\thiam\desktop\nova pasta\c++\trabalho miguel\lib.h
+	"miguel.h"
+
+1607621133 c:\users\thiam\desktop\nova pasta\c++\trabalho miguel\miguel.h
+
+1607622031 source:c:\users\thiam\desktop\nova pasta\c++\trabalho miguel\miguel.c
+	<stdio.h>
+	<math.h>
+	<stddef.h>
+	"miguel.h"
+
+1609170446 source:c:\users\thiam\onedrive\햞ea de trabalho\trabalho miguel\trabalho miguel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"lib.h"
+	<math.h>
+	<string.h>
+
+1605898694 c:\users\thiam\onedrive\햞ea de trabalho\trabalho miguel\trabalho miguel\lib.h
+	"miguel.h"
+
+1609170635 c:\users\thiam\onedrive\햞ea de trabalho\trabalho miguel\trabalho miguel\miguel.h
+
+1609170306 source:c:\users\thiam\onedrive\햞ea de trabalho\trabalho miguel\trabalho miguel\miguel.c
+	<stdio.h>
+	<math.h>
+	<stddef.h>
+	"miguel.h"
+
+1609172202 source:c:\users\miguel\desktop\prog estru\trabalho miguel final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"lib.h"
+	<math.h>
+	<string.h>
+
+1605898694 c:\users\miguel\desktop\prog estru\trabalho miguel final\lib.h
+	"miguel.h"
+
+1609170635 c:\users\miguel\desktop\prog estru\trabalho miguel final\miguel.h
+
+1610234011 source:c:\users\miguel\desktop\trabalho miguel final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"lib.h"
+	<math.h>
+	<string.h>
+
+1605898694 c:\users\miguel\desktop\trabalho miguel final\lib.h
+	"miguel.h"
+
+1610229593 c:\users\miguel\desktop\trabalho miguel final\miguel.h
+
+1610234101 source:c:\users\miguel\desktop\trabalho miguel final\miguel.c
+	<stdio.h>
+	<math.h>
+	<stddef.h>
+	"miguel.h"
+
